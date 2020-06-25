@@ -1,4 +1,4 @@
-# vue-homework
+# vue-physicsteam
 
 ## Project setup
 ```
